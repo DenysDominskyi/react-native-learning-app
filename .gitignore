@@ -9,7 +9,7 @@ dist/
 web-build/
 
 #%ProgramData%
-.%ProgramData%
+%ProgramData%/
 
 # Native
 *.orig.*
